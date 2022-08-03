@@ -24,7 +24,7 @@ All information on the missions and astronauts data are parsed and decoded from 
 
 ## App preview
 
-
+https://user-images.githubusercontent.com/65307853/182687536-97dfa789-7a78-403e-9308-c8c921f7cfd3.mp4
 
 ## Trying it yourself
 
